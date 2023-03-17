@@ -34,12 +34,13 @@ Jika membutuhkan panduan penggunaan Brainmatics LMS dapat didownload melalui lin
 
 ## Kerjakan
 
-* Pull Request dengan Judul : 1-KELAS-NPM-NAMA menyertakan
+* Buat Folder KELAS-NPM-NAMA
+* Pull Request dengan Judul : KELAS-NPM-NAMA menyertakan
   * Username LMS Brainmatics(10)
   * Skrinsut Hasil Pre Test(10)
   * Skrinsut hasil post test(10)
   * Sertifikat pelatihan(10)
   * Skrinsutan(gambar atau link video) Pertanyaan sendiri (bukang org lain yang nanya) via chat atau video(10)
   * Skrinsutan presensi kehadiran(10)
-  * Buat rangkuman (intisari) dari pelatihan tersebut dalam format PDF (10)
+  * Rangkuman (intisari) dari pelatihan tersebut dalam format PDF (10)
   * ................ Soal lan menyusul
