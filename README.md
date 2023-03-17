@@ -26,3 +26,15 @@ Untuk mengakses materi, riwayat pelaksanaan training, dan sertifikat keikutserta
 5. Silahkan klik link View yang terdapat pada kolom Certificate, untuk mengakses sertifikat keikutsertaan anda
 
 Jika membutuhkan panduan penggunaan Brainmatics LMS dapat didownload melalui link berikut: Panduan Penggunaan Brainmatics LMS
+
+## Kerjakan
+
+* Pull Request dengan Judul : 1-KELAS-NPM-NAMA menyertakan
+  * Username LMS Brainmatics(10)
+  * Skrinsut Hasil Pre Test(10)
+  * Skrinsut hasil post test(10)
+  * Sertifikat pelatihan(10)
+  * Skrinsutan(gambar atau link video) Pertanyaan sendiri (bukang org lain yang nanya) via chat atau video(10)
+  * Skrinsutan presensi kehadiran(10)
+  * Buat rangkuman (intisari) dari pelatihan tersebut dalam format PDF (10)
+  * ................ Soal lan menyusul
