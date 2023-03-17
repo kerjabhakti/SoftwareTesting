@@ -1,7 +1,10 @@
 # SoftwareTesting
+Pengujian software merupakan proses yang sangat penting dalam pengembangan software. Pengujian software diperlukan untuk mendeteksi bug dalam software dan untuk menguji apakah software yang dikembangkan memenuhi requirements dari user atau product owner. Bug dalam software dapat menyebabkan kegagalan pada fungsi software, sehingga bisa menyebabkan kerugian baik secara waktu, uang, dan reputasi perusahaan. Maka dari itu, diperlukan sebuah mekanisme pengujian software yang standard, agar software berjalan sesuai fungsinya. Pada training ini peserta akan diajarkan bagaimana menerapkan mekanisme pengujian software berdasarkan standard ISTQB-ISEB, memahami beberapa jenis dan teknis pengujian software, Mengelola dan mendokumentasikan pengujian software, dan dapat menggunakan tools yang umum digunakan dalam pengujian software
+
+## Kurikulum
+![image](https://user-images.githubusercontent.com/15622730/225799326-0bee03b2-87ed-4353-bd6e-68ba1aac67c4.png)
+
 Pelaksanaan 1 Hour Online Training: 3 Alasan Dunia Tidak Butuh Software Testing
-
-
 https://brainmatics.com/1-hour-online-training-3-alasan-dunia-tidak-butuh-software-testing/
 
 Bersama email berikut kami kirimkan Konfirmasi Pelaksanaan 1 Hour Online Training: 3 Alasan Dunia Tidak Butuh Software Testing. Sebagai konfirmasi pelaksanaan training yang akan diselenggarakan online via aplikasi Zoom pada:
