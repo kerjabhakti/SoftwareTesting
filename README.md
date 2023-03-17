@@ -33,8 +33,8 @@ Untuk mengakses materi, riwayat pelaksanaan training, dan sertifikat keikutserta
 Jika membutuhkan panduan penggunaan Brainmatics LMS dapat didownload melalui link berikut: Panduan Penggunaan Brainmatics LMS
 
 ## Kerjakan
-
-* Buat Folder KELAS-NPM-NAMA
+* Pilih kelas masing-masing
+* Buat Folder KELAS-NPM-NAMA (pada folder kelas)
 * Pull Request dengan Judul : KELAS-NPM-NAMA menyertakan
   * Username LMS Brainmatics(10)
   * Skrinsut Hasil Pre Test(10)
