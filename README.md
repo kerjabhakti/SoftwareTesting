@@ -11,7 +11,7 @@ Pelaksanaan 1 Hour Online Training: 3 Alasan Dunia Tidak Butuh Software Testing
 
 Bersama email berikut kami kirimkan Konfirmasi Pelaksanaan 1 Hour Online Training: 3 Alasan Dunia Tidak Butuh Software Testing. Sebagai konfirmasi pelaksanaan training yang akan diselenggarakan online via aplikasi Zoom pada:
 
-| Jadwal      | Pelaksanaan | Source |
+| Jadwal      | Pelaksanaan | Source Join Link |
 | ----------- | ----------- | ----------- |
 | Hari/Tanggal |Sabtu/18 Maret 2023 |  815 5009 3338 , TESTING-18 |
 | Pukul      |09.00 WIB - Selesai | https://us06web.zoom.us/j/81550093338?pwd=R2QyVnNzSFYxSkVRRjA2Y3lGZTJxQT09 |
