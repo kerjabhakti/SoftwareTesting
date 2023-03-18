@@ -1,5 +1,7 @@
 # SoftwareTesting
 Pengujian software merupakan proses yang sangat penting dalam pengembangan software. Pengujian software diperlukan untuk mendeteksi bug dalam software dan untuk menguji apakah software yang dikembangkan memenuhi requirements dari user atau product owner. Bug dalam software dapat menyebabkan kegagalan pada fungsi software, sehingga bisa menyebabkan kerugian baik secara waktu, uang, dan reputasi perusahaan. Maka dari itu, diperlukan sebuah mekanisme pengujian software yang standard, agar software berjalan sesuai fungsinya. Pada training ini peserta akan diajarkan bagaimana menerapkan mekanisme pengujian software berdasarkan standard ISTQB-ISEB, memahami beberapa jenis dan teknis pengujian software, Mengelola dan mendokumentasikan pengujian software, dan dapat menggunakan tools yang umum digunakan dalam pengujian software
+![image](https://user-images.githubusercontent.com/15622730/226078650-a3aba897-7f13-453d-8b90-58ec89772e34.png)
+
 
 ## Kurikulum
 | Persiapan      | Pembelajaran | Penutupan | Link Materi
