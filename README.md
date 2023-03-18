@@ -23,6 +23,7 @@ Untuk bergabung dalam pelaksanaan trainingnya pastikan PC/Laptop sudah terinstal
 | Link | https://us06web.zoom.us/j/81550093338?pwd=R2QyVnNzSFYxSkVRRjA2Y3lGZTJxQT09/ |
 
 Link Join Online Training   : 3 Alasan Dunia Tidak Butuh Software Testing
+Link Materi : https://drive.google.com/file/d/1Q4nhOq0uWa0Tw8CJFa52CcX5bSOdaSsM/view?usp=sharing
 
 Untuk mengakses materi, riwayat pelaksanaan training, dan sertifikat keikutsertaan training bisa diakses melalui Brainmatics Learning Management System (LMS), dengan cara sebagai berikut:
 1. Silahkan mengakses situs https://brainmatics.com
