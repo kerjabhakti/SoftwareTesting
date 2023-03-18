@@ -36,7 +36,7 @@ Jika membutuhkan panduan penggunaan Brainmatics LMS dapat didownload melalui lin
   * Skrinsut Hasil Pre Test(10)
   * Skrinsut hasil post test(10)
   * Sertifikat pelatihan(10)
-  * Skrinsutan(gambar atau link video) Pertanyaan sendiri (bukang org lain yang nanya) via chat atau video(10)
+  * Skrinsutan Pertanyaan sendiri via chat atau video(10)
   * Skrinsutan presensi kehadiran(10)
   * Pemahaman 7 prinsip testing, Functional testing, Non Functional testing, Structural testing dan Testing related to Change - PDF(20)
   * Contoh Functional testing, Non Functional testing, Structural testing dan Testing related to Change - PDF (20)
