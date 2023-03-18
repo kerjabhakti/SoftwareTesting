@@ -28,7 +28,7 @@ Untuk mengakses materi, riwayat pelaksanaan training, dan sertifikat keikutserta
 
 Jika membutuhkan panduan penggunaan Brainmatics LMS dapat didownload melalui link berikut: Panduan Penggunaan Brainmatics LMS
 
-## Kerjakan
+## Tugas (Maksimal Pull Req - Senin 20 Maret 23 - 10:00 WIB)
 * Pilih kelas masing-masing
 * Buat Folder KELAS-NPM-NAMA (pada folder kelas)
 * Pull Request dengan Judul : KELAS-NPM-NAMA menyertakan
