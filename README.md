@@ -32,12 +32,12 @@ Jika membutuhkan panduan penggunaan Brainmatics LMS dapat didownload melalui lin
 * Pilih kelas masing-masing
 * Buat Folder KELAS-NPM-NAMA (pada folder kelas)
 * Pull Request dengan Judul : KELAS-NPM-NAMA menyertakan
-  * Username LMS Brainmatics(10)
-  * Skrinsut Hasil Pre Test(10)
-  * Skrinsut hasil post test(10)
-  * Sertifikat pelatihan(10)
-  * Skrinsutan Pertanyaan sendiri via chat atau video(10)
-  * Skrinsutan presensi kehadiran(10)
+  * Screenshot Username/profile LMS Brainmatics(10)
+  * Screenshot Hasil Pre Test(10)
+  * Screenshot hasil post test(10)
+  * Screenshot pelatihan(10)
+  * Screenshot Pertanyaan sendiri via chat atau video(10)
+  * Screenshot presensi kehadiran(10)
   * Pemahaman 7 prinsip testing, Functional testing, Non Functional testing, Structural testing dan Testing related to Change - PDF(20)
   * Contoh Functional testing, Non Functional testing, Structural testing dan Testing related to Change - PDF (20)
   * Apa intisari dari pelatihan tersebut - PDF (10)
