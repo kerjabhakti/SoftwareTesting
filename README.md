@@ -20,6 +20,7 @@ Untuk bergabung dalam pelaksanaan trainingnya pastikan PC/Laptop sudah terinstal
 | Meeting ID      | 815 5009 3338 | 
 | ----------- | ----------- |
 | Password | TESTING-18 |
+| Link | https://us06web.zoom.us/j/81550093338?pwd=R2QyVnNzSFYxSkVRRjA2Y3lGZTJxQT09/ |
 
 Link Join Online Training   : 3 Alasan Dunia Tidak Butuh Software Testing
 
