@@ -11,18 +11,10 @@ Pelaksanaan 1 Hour Online Training: 3 Alasan Dunia Tidak Butuh Software Testing
 
 Bersama email berikut kami kirimkan Konfirmasi Pelaksanaan 1 Hour Online Training: 3 Alasan Dunia Tidak Butuh Software Testing. Sebagai konfirmasi pelaksanaan training yang akan diselenggarakan online via aplikasi Zoom pada:
 
-| Jadwal      | Pelaksanaan | 
-| ----------- | ----------- |
-| Hari/Tanggal |Sabtu/18 Maret 2023 |
-| Pukul      |09.00 WIB - Selesai | 
-
-Untuk bergabung dalam pelaksanaan trainingnya pastikan PC/Laptop sudah terinstal aplikasi Zoom, dan berikut informasinya:
-| Meeting ID      | 815 5009 3338 | 
-| ----------- | ----------- |
-| Password | TESTING-18 |
-| Link | https://us06web.zoom.us/j/81550093338?pwd=R2QyVnNzSFYxSkVRRjA2Y3lGZTJxQT09/ |
-
-Link Join Online Training   : 3 Alasan Dunia Tidak Butuh Software Testing
+| Jadwal      | Pelaksanaan | Source |
+| ----------- | ----------- | ----------- |
+| Hari/Tanggal |Sabtu/18 Maret 2023 |  815 5009 3338 , TESTING-18 |
+| Pukul      |09.00 WIB - Selesai | https://us06web.zoom.us/j/81550093338?pwd=R2QyVnNzSFYxSkVRRjA2Y3lGZTJxQT09 |
 
 Untuk mengakses materi, riwayat pelaksanaan training, dan sertifikat keikutsertaan training bisa diakses melalui Brainmatics Learning Management System (LMS), dengan cara sebagai berikut:
 1. Silahkan mengakses situs https://brainmatics.com
